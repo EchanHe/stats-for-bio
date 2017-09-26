@@ -103,7 +103,7 @@ Now the range of outcomes is about 160 to 240, corresponding to purple morph fre
 
 So far, we've not been very careful about how we quantify the spread of a sampling distribution---we've estimated the approximate range of purple morph counts by looking at histograms. This is fine for an investigation of general patterns, but to make rigorous comparisons, we really need a quantitative measure of sampling error variation. One such quantity is called the **standard error**.
 
-The standard error is actually quite a simple idea, though its definition is a bit of mouthful: the standard error of an estimate is the standard deviation of its sampling distribution. Don't worry, most people find the definition of the standard error confusing when they first encounter it. The key point is that it is a standard deviation, so it a measure of the spread, or dispersion, of a distribution. The distribution in the case of a standard error is the sampling distribution associated with some kind of estimate. 
+The standard error is actually quite a simple idea, though its definition is a bit of mouthful: the standard error of an estimate is the standard deviation of its sampling distribution. Don't worry, most people find the definition of the standard error confusing when they first encounter it. The key point is that it is a standard deviation, so it is a measure of the spread, or dispersion, of a distribution. The distribution in the case of a standard error is the sampling distribution associated with some kind of estimate. 
 
 (It is common to use a shorthand abbreviations such "SE", "S.E.", "se" or "s.e." in place of 'standard error' when referring to the standard error in text.)
 
